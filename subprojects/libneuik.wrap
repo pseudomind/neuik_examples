@@ -1,0 +1,4 @@
+[wrap-git]
+directory = libneuik
+url = https://github.com/pseudomind/neuik.git
+revision = head
