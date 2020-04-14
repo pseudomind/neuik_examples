@@ -49,7 +49,6 @@ foreach example : examples
 
 	executable(example, source_main,
 		dependencies : all_deps, 
-		link_with : [ libneuik ],
 		install : false)
 
 	ctr+=1
